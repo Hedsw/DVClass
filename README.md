@@ -1,14 +1,7 @@
 # Exercise 01: Line Chart
 
-### Use the data_sample.csv
+YUNHYEOK LEE ANSWER 
 
-<hr>
-<b> Use Scale to d3.scaleLinear and d3.scaleTime()
-refer to  <br>
-    <a href="https://github.com/umassdgithub/Fall2021-Week-5-Monday/blob/master/Example_Mon%205.6/index.html">
-
-    umassdgithub/Fall2021-Week-5-Monday/.../Styling_plot.html 
-</a>
 </b>
 <hr>
 <ol>
